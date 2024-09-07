@@ -1,0 +1,22 @@
+.boring {
+    font-size: 12px;
+    background-color: rgba(255,0,0,0.3);
+    font-family: 'Courier New', Courier, monospace ;
+}
+
+.cool {
+    font-size: 20px;
+    background-color: rgba(255,0,0,0.3);
+    font-family: 'Courier New', Courier, monospace ;
+}
+
+#blue {
+    font-family: 'Times New Roman', Times, serif;
+    color: hsl(241, 91%, 45%);;
+}
+ 
+#green {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    background-color: rgb(0,255,0);
+}
